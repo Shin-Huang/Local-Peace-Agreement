@@ -6,4 +6,5 @@ To figure out how to make use of the Twitter API via Python so later can use it 
 To set up a key to make a API query. >> check out the link Dave sent. (https://developer.twitter.com/en/docs/twitter-api/getting-started/guide)
 
 Review DS4D Course Handbook 2020_21.pdf
+
 Review meeting summary on Notes, Teams.
