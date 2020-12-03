@@ -9,3 +9,5 @@ Reference for visualisation projects, PA-X from previous year (provided by QU an
 Review DS4D Course Handbook 2020_21.pdf
 
 Review meeting summary on Notes, Teams.
+
+ANNOUNCEMENT: Group 13 has decided to change our project into working on a peace agreement instead of keep researching on this Twitter Bots's subject. 
