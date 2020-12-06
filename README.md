@@ -1,20 +1,21 @@
-Local-Peace-Agreement
+# Local-Peace-Agreement
 
 Local Peace Agreement is a learning experience and we‘d like to let people know more about the role of local peace agreements playing in the peace progress.
 
-Link to promotional video：https://youtu.be/I6JvIOWEdXc
+## Link to promotional video：https://youtu.be/I6JvIOWEdXc
 
 This video is from the University of Edinburgh Design Informatics student at DS4D group 13, in order to introduce The Local Peace Agreement website.
 
-Website link: http://107.151.193.203/ct/ (Just a preview version doesn't have a domain name yet)
+## Website link: http://107.151.193.203/ct/ (Just a preview version doesn't have a domain name yet)
 
 Special thanks to Christine, Ben and Dave (from Design Informatics) for their guidance, and the PA-X database for providing complete data.
 
 Note: Some of Envato's templates and audio are used in the video and part of the inspiration came from the refugee project.
 
 
-Previous version
-# Twitter-Bots>> 
+## Previous version
+Twitter-Bots
+
 Data Fair Challenge - Twitter Bots
 
 To figure out how to make use of the Twitter API via Python so later can use it to query a theme for Twitter Bot. (Online services information about how to be able to control API by the service)
