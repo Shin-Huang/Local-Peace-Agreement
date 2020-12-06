@@ -15,8 +15,10 @@ Special thanks to Christine, Ben and Dave (from Design Informatics) for their gu
 Note: Some of Envato's templates and audio are used in the video and part of the inspiration came from the refugee project.
 
 
-## Previous version
-Twitter-Bots
+## Previous version(October)
+Twitter-Bots >> Local Peace Agreement
+
+(Because many of our team members had no technical background, the data holder finally revised our design direction.)
 
 Data Fair Challenge - Twitter Bots
 
