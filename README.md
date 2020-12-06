@@ -2,7 +2,7 @@
 
 Local Peace Agreement is a learning experience and we‘d like to let people know more about the role of local peace agreements playing in the peace progress.
 
-## Link to promotional video：https://youtu.be/I6JvIOWEdXc
+## Promotional Video link：https://youtu.be/I6JvIOWEdXc
 
 This video is from the University of Edinburgh Design Informatics student at DS4D group 13, in order to introduce The Local Peace Agreement website.
 
