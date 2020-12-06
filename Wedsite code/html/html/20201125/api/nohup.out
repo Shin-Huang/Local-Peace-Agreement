@@ -1,0 +1,1660 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /cgi-bin/texis/vtx/home/rssfull.xml --> main.main.func2 (5 handlers)
+[GIN-debug] Listening and serving HTTP on :9527
+2020/12/03 11:50:56 complete
+2020/12/03 11:50:56 complete
+[GIN] 2020/12/03 - 11:50:56 | 200 |      2.0497ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+[GIN] 2020/12/03 - 11:50:56 | 200 |      1.6197ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:50:56 complete
+[GIN] 2020/12/03 - 11:50:56 | 200 |         869µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:01 complete
+[GIN] 2020/12/03 - 11:51:01 | 200 |       513.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:51:18 complete
+2020/12/03 11:51:18 complete
+[GIN] 2020/12/03 - 11:51:18 | 200 |       484.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+[GIN] 2020/12/03 - 11:51:18 | 200 |       668.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:24 complete
+[GIN] 2020/12/03 - 11:51:24 | 200 |       428.8µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:27 complete
+[GIN] 2020/12/03 - 11:51:27 | 200 |       747.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:31 complete
+[GIN] 2020/12/03 - 11:51:31 | 200 |         469µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:33 complete
+[GIN] 2020/12/03 - 11:51:33 | 200 |       564.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:34 complete
+[GIN] 2020/12/03 - 11:51:34 | 200 |      1.0382ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 11:51:36 complete
+[GIN] 2020/12/03 - 11:51:36 | 200 |         575µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:36 complete
+[GIN] 2020/12/03 - 11:51:36 | 200 |       812.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:51:38 complete
+[GIN] 2020/12/03 - 11:51:38 | 200 |         705µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:52:17 complete
+[GIN] 2020/12/03 - 11:52:17 | 200 |       646.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:52:18 complete
+[GIN] 2020/12/03 - 11:52:18 | 200 |         763µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:52:18 complete
+[GIN] 2020/12/03 - 11:52:18 | 200 |       701.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:52:26 complete
+[GIN] 2020/12/03 - 11:52:26 | 200 |         495µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:52:26 complete
+[GIN] 2020/12/03 - 11:52:26 | 200 |       473.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:52:36 complete
+[GIN] 2020/12/03 - 11:52:36 | 200 |       858.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 11:52:59 complete
+[GIN] 2020/12/03 - 11:52:59 | 200 |       635.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:53:02 complete
+[GIN] 2020/12/03 - 11:53:02 | 200 |       726.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:53:15 complete
+[GIN] 2020/12/03 - 11:53:15 | 200 |         818µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:53:16 complete
+[GIN] 2020/12/03 - 11:53:16 | 200 |       692.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:33 complete
+[GIN] 2020/12/03 - 11:54:33 | 200 |      1.1726ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:33 complete
+[GIN] 2020/12/03 - 11:54:33 | 200 |       633.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:33 complete
+[GIN] 2020/12/03 - 11:54:33 | 200 |       440.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:38 complete
+[GIN] 2020/12/03 - 11:54:38 | 200 |       430.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:38 complete
+[GIN] 2020/12/03 - 11:54:38 | 200 |       685.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:54:38 complete
+[GIN] 2020/12/03 - 11:54:38 | 200 |       560.6µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:55:03 complete
+[GIN] 2020/12/03 - 11:55:03 | 200 |       800.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:55:47 complete
+[GIN] 2020/12/03 - 11:55:47 | 200 |      1.2454ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:55:47 complete
+[GIN] 2020/12/03 - 11:55:47 | 200 |      1.0155ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014&coa=SYR"
+2020/12/03 11:55:48 complete
+[GIN] 2020/12/03 - 11:55:48 | 200 |       717.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014&coa=SYR"
+2020/12/03 11:55:48 complete
+[GIN] 2020/12/03 - 11:55:48 | 200 |       333.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:55:49 complete
+[GIN] 2020/12/03 - 11:55:49 | 200 |       508.7µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:55:49 complete
+[GIN] 2020/12/03 - 11:55:49 | 200 |         477µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 11:55:50 complete
+[GIN] 2020/12/03 - 11:55:50 | 200 |       535.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 11:55:50 complete
+[GIN] 2020/12/03 - 11:55:50 | 200 |       373.3µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:55:51 complete
+[GIN] 2020/12/03 - 11:55:51 | 200 |       792.7µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:55:51 complete
+[GIN] 2020/12/03 - 11:55:51 | 200 |         563µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SYR"
+2020/12/03 11:55:54 complete
+[GIN] 2020/12/03 - 11:55:54 | 200 |       656.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 11:55:54 complete
+[GIN] 2020/12/03 - 11:55:54 | 200 |         577µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 11:55:56 complete
+[GIN] 2020/12/03 - 11:55:56 | 200 |         739µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=CAF"
+2020/12/03 11:55:59 complete
+[GIN] 2020/12/03 - 11:55:59 | 200 |       676.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SSD"
+2020/12/03 11:56:01 complete
+[GIN] 2020/12/03 - 11:56:01 | 200 |       480.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SSD"
+2020/12/03 11:56:01 complete
+[GIN] 2020/12/03 - 11:56:01 | 200 |       447.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2011&coa=SSD"
+2020/12/03 11:56:03 complete
+[GIN] 2020/12/03 - 11:56:03 | 200 |       832.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:56:04 complete
+[GIN] 2020/12/03 - 11:56:04 | 200 |         769µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2011&coa=SSD"
+2020/12/03 11:56:04 complete
+[GIN] 2020/12/03 - 11:56:04 | 200 |       354.6µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 11:56:38 complete
+[GIN] 2020/12/03 - 11:56:38 | 200 |       539.6µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:56:38 complete
+[GIN] 2020/12/03 - 11:56:38 | 200 |       539.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:56:38 complete
+[GIN] 2020/12/03 - 11:56:38 | 200 |       478.2µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:10 complete
+[GIN] 2020/12/03 - 11:57:10 | 200 |       654.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 11:57:10 complete
+[GIN] 2020/12/03 - 11:57:10 | 200 |       874.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 11:57:14 complete
+[GIN] 2020/12/03 - 11:57:14 | 200 |         616µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 11:57:14 complete
+[GIN] 2020/12/03 - 11:57:14 | 200 |       682.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:57:16 complete
+[GIN] 2020/12/03 - 11:57:16 | 200 |       705.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 11:57:16 complete
+[GIN] 2020/12/03 - 11:57:16 | 200 |       708.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 11:57:17 complete
+[GIN] 2020/12/03 - 11:57:17 | 200 |       666.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 11:57:18 complete
+[GIN] 2020/12/03 - 11:57:18 | 200 |       583.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 11:57:19 complete
+[GIN] 2020/12/03 - 11:57:19 | 200 |       653.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:19 complete
+[GIN] 2020/12/03 - 11:57:19 | 200 |       923.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 11:57:20 complete
+[GIN] 2020/12/03 - 11:57:20 | 200 |       621.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 11:57:20 complete
+[GIN] 2020/12/03 - 11:57:20 | 200 |       466.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 11:57:50 complete
+[GIN] 2020/12/03 - 11:57:50 | 200 |         441µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:50 complete
+[GIN] 2020/12/03 - 11:57:50 | 200 |      1.5637ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:50 complete
+[GIN] 2020/12/03 - 11:57:50 | 200 |       545.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:54 complete
+[GIN] 2020/12/03 - 11:57:54 | 200 |       526.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 11:57:54 complete
+[GIN] 2020/12/03 - 11:57:54 | 200 |       921.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 11:58:21 complete
+[GIN] 2020/12/03 - 11:58:21 | 200 |       785.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 11:58:21 complete
+[GIN] 2020/12/03 - 11:58:21 | 200 |       734.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:17:55 complete
+[GIN] 2020/12/03 - 12:17:55 | 200 |      1.6172ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:17:55 complete
+[GIN] 2020/12/03 - 12:17:55 | 200 |       930.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:17:55 complete
+[GIN] 2020/12/03 - 12:17:55 | 200 |      1.1936ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:17:57 complete
+[GIN] 2020/12/03 - 12:17:57 | 200 |       527.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:17:57 complete
+[GIN] 2020/12/03 - 12:17:57 | 200 |       927.2µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 12:19:36 complete
+[GIN] 2020/12/03 - 12:19:36 | 200 |       486.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:19:36 complete
+[GIN] 2020/12/03 - 12:19:36 | 200 |         717µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:19:36 complete
+[GIN] 2020/12/03 - 12:19:36 | 200 |       554.3µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:19:49 complete
+[GIN] 2020/12/03 - 12:19:49 | 200 |       583.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 12:19:49 complete
+[GIN] 2020/12/03 - 12:19:49 | 200 |       622.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:21:09 complete
+[GIN] 2020/12/03 - 12:21:09 | 200 |       893.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:21:10 complete
+[GIN] 2020/12/03 - 12:21:10 | 200 |         519µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:22:29 complete
+[GIN] 2020/12/03 - 12:22:29 | 200 |       818.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:22:29 complete
+[GIN] 2020/12/03 - 12:22:29 | 200 |       652.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:22:29 complete
+[GIN] 2020/12/03 - 12:22:29 | 200 |       1.106ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:25 complete
+[GIN] 2020/12/03 - 12:24:25 | 200 |       1.295ms |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:37 complete
+[GIN] 2020/12/03 - 12:24:37 | 200 |       603.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:37 complete
+[GIN] 2020/12/03 - 12:24:37 | 200 |       1.057ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:37 complete
+[GIN] 2020/12/03 - 12:24:37 | 200 |       558.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:58 complete
+[GIN] 2020/12/03 - 12:24:58 | 200 |       632.4µs |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:58 complete
+[GIN] 2020/12/03 - 12:24:58 | 200 |       763.9µs |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:58 complete
+[GIN] 2020/12/03 - 12:24:58 | 200 |       763.9µs |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:59 complete
+[GIN] 2020/12/03 - 12:24:59 | 200 |       538.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:59 complete
+[GIN] 2020/12/03 - 12:24:59 | 200 |      1.0507ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:24:59 complete
+[GIN] 2020/12/03 - 12:24:59 | 200 |       611.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:25:11 complete
+[GIN] 2020/12/03 - 12:25:11 | 200 |       594.4µs |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 12:25:13 complete
+[GIN] 2020/12/03 - 12:25:13 | 200 |       705.5µs |   117.136.89.43 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SSD"
+2020/12/03 12:25:14 complete
+[GIN] 2020/12/03 - 12:25:14 | 200 |       759.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:26:03 complete
+[GIN] 2020/12/03 - 12:26:03 | 200 |      1.1968ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:26:03 complete
+[GIN] 2020/12/03 - 12:26:03 | 200 |       579.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:26:03 complete
+[GIN] 2020/12/03 - 12:26:03 | 200 |       613.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:27:54 complete
+[GIN] 2020/12/03 - 12:27:54 | 200 |       628.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:27:54 complete
+[GIN] 2020/12/03 - 12:27:54 | 200 |       841.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:27:55 complete
+[GIN] 2020/12/03 - 12:27:55 | 200 |       622.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:30:13 complete
+[GIN] 2020/12/03 - 12:30:13 | 200 |       706.2µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 12:30:28 complete
+[GIN] 2020/12/03 - 12:30:28 | 200 |       803.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:30:28 complete
+[GIN] 2020/12/03 - 12:30:28 | 200 |       685.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 12:40:45 complete
+[GIN] 2020/12/03 - 12:40:45 | 200 |      1.9941ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:40:45 complete
+[GIN] 2020/12/03 - 12:40:45 | 200 |       548.5µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 12:51:06 complete
+[GIN] 2020/12/03 - 12:51:06 | 200 |       791.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:51:06 complete
+[GIN] 2020/12/03 - 12:51:06 | 200 |       909.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:51:06 complete
+[GIN] 2020/12/03 - 12:51:06 | 200 |       759.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:12 complete
+[GIN] 2020/12/03 - 12:52:12 | 200 |         639µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:12 complete
+[GIN] 2020/12/03 - 12:52:12 | 200 |       865.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:12 complete
+[GIN] 2020/12/03 - 12:52:12 | 200 |       804.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:29 complete
+[GIN] 2020/12/03 - 12:52:29 | 200 |       469.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:29 complete
+[GIN] 2020/12/03 - 12:52:29 | 200 |       474.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:52:29 complete
+[GIN] 2020/12/03 - 12:52:29 | 200 |       595.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:54:41 complete
+[GIN] 2020/12/03 - 12:54:41 | 200 |       626.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:54:41 complete
+[GIN] 2020/12/03 - 12:54:41 | 200 |      1.2837ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:54:41 complete
+[GIN] 2020/12/03 - 12:54:41 | 200 |      1.1667ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:34 complete
+[GIN] 2020/12/03 - 12:56:34 | 200 |         757µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:34 complete
+[GIN] 2020/12/03 - 12:56:34 | 200 |       750.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:34 complete
+[GIN] 2020/12/03 - 12:56:34 | 200 |       628.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:57 complete
+[GIN] 2020/12/03 - 12:56:57 | 200 |       583.3µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:57 complete
+[GIN] 2020/12/03 - 12:56:57 | 200 |       703.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:56:57 complete
+[GIN] 2020/12/03 - 12:56:57 | 200 |       405.9µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:57:19 complete
+[GIN] 2020/12/03 - 12:57:19 | 200 |       547.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:57:19 complete
+2020/12/03 12:57:19 complete
+[GIN] 2020/12/03 - 12:57:19 | 200 |       800.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+[GIN] 2020/12/03 - 12:57:19 | 200 |       572.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:57:57 complete
+[GIN] 2020/12/03 - 12:57:57 | 200 |       561.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:57:58 complete
+[GIN] 2020/12/03 - 12:57:58 | 200 |         629µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:57:59 complete
+[GIN] 2020/12/03 - 12:57:59 | 200 |       596.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:58:00 complete
+[GIN] 2020/12/03 - 12:58:00 | 200 |       640.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:58:05 complete
+[GIN] 2020/12/03 - 12:58:05 | 200 |       449.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 12:58:35 complete
+[GIN] 2020/12/03 - 12:58:35 | 200 |       679.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 12:59:22 complete
+[GIN] 2020/12/03 - 12:59:22 | 200 |         525µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:22 complete
+[GIN] 2020/12/03 - 12:59:22 | 200 |       793.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:22 complete
+[GIN] 2020/12/03 - 12:59:22 | 200 |       836.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:37 complete
+[GIN] 2020/12/03 - 12:59:37 | 200 |       634.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:38 complete
+[GIN] 2020/12/03 - 12:59:38 | 200 |       652.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:40 complete
+[GIN] 2020/12/03 - 12:59:40 | 200 |       656.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:42 complete
+[GIN] 2020/12/03 - 12:59:42 | 200 |       872.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 12:59:44 complete
+[GIN] 2020/12/03 - 12:59:44 | 200 |       695.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 13:01:02 complete
+[GIN] 2020/12/03 - 13:01:02 | 200 |      1.1621ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:01:08 complete
+[GIN] 2020/12/03 - 13:01:08 | 200 |       612.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:01:50 complete
+[GIN] 2020/12/03 - 13:01:50 | 200 |       479.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:01:53 complete
+[GIN] 2020/12/03 - 13:01:53 | 200 |       391.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 13:01:54 complete
+[GIN] 2020/12/03 - 13:01:54 | 200 |       531.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 13:01:54 complete
+[GIN] 2020/12/03 - 13:01:54 | 200 |       223.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 13:01:55 complete
+[GIN] 2020/12/03 - 13:01:55 | 200 |       616.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:01:55 complete
+[GIN] 2020/12/03 - 13:01:55 | 200 |       393.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 13:01:55 complete
+[GIN] 2020/12/03 - 13:01:55 | 200 |       498.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 13:01:56 complete
+[GIN] 2020/12/03 - 13:01:56 | 200 |       765.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 13:01:56 complete
+[GIN] 2020/12/03 - 13:01:56 | 200 |       399.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 13:01:58 complete
+2020/12/03 13:01:58 complete
+[GIN] 2020/12/03 - 13:01:58 | 200 |       339.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+[GIN] 2020/12/03 - 13:01:58 | 200 |       652.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 13:01:58 complete
+[GIN] 2020/12/03 - 13:01:58 | 200 |       531.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:01:58 complete
+[GIN] 2020/12/03 - 13:01:58 | 200 |       553.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 13:01:59 complete
+[GIN] 2020/12/03 - 13:01:59 | 200 |       505.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 13:01:59 complete
+[GIN] 2020/12/03 - 13:01:59 | 200 |       757.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2012"
+2020/12/03 13:01:59 complete
+[GIN] 2020/12/03 - 13:01:59 | 200 |       793.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2012"
+2020/12/03 13:01:59 complete
+[GIN] 2020/12/03 - 13:01:59 | 200 |       398.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 13:02:01 complete
+[GIN] 2020/12/03 - 13:02:01 | 200 |       610.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 13:02:01 complete
+[GIN] 2020/12/03 - 13:02:01 | 200 |       510.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:03:51 complete
+[GIN] 2020/12/03 - 13:03:51 | 200 |       696.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:04:10 complete
+[GIN] 2020/12/03 - 13:04:10 | 200 |         827µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:04:14 complete
+[GIN] 2020/12/03 - 13:04:14 | 200 |         480µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:04:46 complete
+[GIN] 2020/12/03 - 13:04:46 | 200 |       698.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:04:46 complete
+[GIN] 2020/12/03 - 13:04:46 | 200 |       459.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:04:51 complete
+[GIN] 2020/12/03 - 13:04:51 | 200 |       640.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:04:51 complete
+[GIN] 2020/12/03 - 13:04:51 | 200 |       686.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:05:55 complete
+[GIN] 2020/12/03 - 13:05:55 | 200 |       851.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:05:56 complete
+[GIN] 2020/12/03 - 13:05:56 | 200 |      1.0999ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:06:47 complete
+[GIN] 2020/12/03 - 13:06:47 | 200 |       921.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:06:47 complete
+[GIN] 2020/12/03 - 13:06:47 | 200 |       975.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:06:54 complete
+[GIN] 2020/12/03 - 13:06:54 | 200 |         452µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:06:59 complete
+[GIN] 2020/12/03 - 13:06:59 | 200 |         563µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:07:02 complete
+[GIN] 2020/12/03 - 13:07:02 | 200 |       490.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:07:02 complete
+[GIN] 2020/12/03 - 13:07:02 | 200 |       411.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:07:07 complete
+[GIN] 2020/12/03 - 13:07:07 | 200 |       487.7µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:07:07 complete
+[GIN] 2020/12/03 - 13:07:07 | 200 |       859.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:09:37 complete
+[GIN] 2020/12/03 - 13:09:37 | 200 |       617.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:09:37 complete
+[GIN] 2020/12/03 - 13:09:37 | 200 |       625.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:09:37 complete
+[GIN] 2020/12/03 - 13:09:37 | 200 |       694.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:12 complete
+[GIN] 2020/12/03 - 13:10:12 | 200 |      1.5719ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:12 complete
+[GIN] 2020/12/03 - 13:10:12 | 200 |       942.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:12 complete
+[GIN] 2020/12/03 - 13:10:12 | 200 |       664.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:39 complete
+[GIN] 2020/12/03 - 13:10:39 | 200 |       754.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:44 complete
+[GIN] 2020/12/03 - 13:10:44 | 200 |       570.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:10:44 complete
+[GIN] 2020/12/03 - 13:10:44 | 200 |       433.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 13:10:45 complete
+[GIN] 2020/12/03 - 13:10:45 | 200 |       429.2µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 13:10:45 complete
+[GIN] 2020/12/03 - 13:10:45 | 200 |       397.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 13:10:47 complete
+[GIN] 2020/12/03 - 13:10:47 | 200 |       600.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 13:10:47 complete
+[GIN] 2020/12/03 - 13:10:47 | 200 |       597.7µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:18:05 complete
+[GIN] 2020/12/03 - 13:18:05 | 200 |       635.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:18:05 complete
+[GIN] 2020/12/03 - 13:18:05 | 200 |         622µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:18:05 complete
+[GIN] 2020/12/03 - 13:18:05 | 200 |       826.6µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:38:48 complete
+[GIN] 2020/12/03 - 13:38:48 | 200 |       821.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:38:49 complete
+[GIN] 2020/12/03 - 13:38:49 | 200 |        1.41ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:43:59 complete
+[GIN] 2020/12/03 - 13:43:59 | 200 |       754.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:43:59 complete
+[GIN] 2020/12/03 - 13:43:59 | 200 |       860.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:43:59 complete
+[GIN] 2020/12/03 - 13:43:59 | 200 |       723.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:47:32 complete
+[GIN] 2020/12/03 - 13:47:32 | 200 |       570.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:47:32 complete
+[GIN] 2020/12/03 - 13:47:32 | 200 |       658.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:47:32 complete
+[GIN] 2020/12/03 - 13:47:32 | 200 |       711.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:43 complete
+[GIN] 2020/12/03 - 13:54:43 | 200 |       726.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:43 complete
+[GIN] 2020/12/03 - 13:54:43 | 200 |       700.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:43 complete
+[GIN] 2020/12/03 - 13:54:43 | 200 |       713.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:45 complete
+[GIN] 2020/12/03 - 13:54:45 | 200 |       695.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:45 complete
+[GIN] 2020/12/03 - 13:54:45 | 200 |       555.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:45 complete
+[GIN] 2020/12/03 - 13:54:45 | 200 |       618.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:45 complete
+[GIN] 2020/12/03 - 13:54:45 | 200 |       656.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:54:47 complete
+[GIN] 2020/12/03 - 13:54:47 | 200 |       564.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 13:54:47 complete
+[GIN] 2020/12/03 - 13:54:47 | 200 |      1.6139ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 13:57:51 complete
+[GIN] 2020/12/03 - 13:57:51 | 200 |         946µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:57:51 complete
+[GIN] 2020/12/03 - 13:57:51 | 200 |       668.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:57:55 complete
+[GIN] 2020/12/03 - 13:57:55 | 200 |         582µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 13:59:22 complete
+[GIN] 2020/12/03 - 13:59:22 | 200 |       509.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 13:59:22 complete
+[GIN] 2020/12/03 - 13:59:22 | 200 |       506.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:06:35 complete
+[GIN] 2020/12/03 - 14:06:35 | 200 |       677.3µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:06:35 complete
+[GIN] 2020/12/03 - 14:06:35 | 200 |       704.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:06:49 complete
+[GIN] 2020/12/03 - 14:06:49 | 200 |       1.019ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:06:55 complete
+[GIN] 2020/12/03 - 14:06:55 | 200 |       527.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:06:55 complete
+[GIN] 2020/12/03 - 14:06:55 | 200 |       489.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:06:59 complete
+[GIN] 2020/12/03 - 14:06:59 | 200 |       577.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:11:48 complete
+[GIN] 2020/12/03 - 14:11:48 | 200 |       932.6µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:13:29 complete
+[GIN] 2020/12/03 - 14:13:29 | 200 |       547.4µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:13:29 complete
+[GIN] 2020/12/03 - 14:13:29 | 200 |       389.2µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:13:29 complete
+[GIN] 2020/12/03 - 14:13:29 | 200 |       567.2µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:13:30 complete
+[GIN] 2020/12/03 - 14:13:30 | 200 |       530.8µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 14:13:33 complete
+[GIN] 2020/12/03 - 14:13:33 | 200 |         448µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:15:30 complete
+[GIN] 2020/12/03 - 14:15:30 | 200 |      1.3162ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:21:42 complete
+[GIN] 2020/12/03 - 14:21:42 | 200 |      1.0808ms | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:26:07 complete
+[GIN] 2020/12/03 - 14:26:07 | 200 |       754.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:26:07 complete
+[GIN] 2020/12/03 - 14:26:07 | 200 |         656µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:26:07 complete
+[GIN] 2020/12/03 - 14:26:07 | 200 |       614.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:26:08 complete
+[GIN] 2020/12/03 - 14:26:08 | 200 |       596.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:26:59 complete
+[GIN] 2020/12/03 - 14:26:59 | 200 |       621.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 14:27:01 complete
+[GIN] 2020/12/03 - 14:27:01 | 200 |         739µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:27:01 complete
+[GIN] 2020/12/03 - 14:27:01 | 200 |       547.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:27:05 complete
+[GIN] 2020/12/03 - 14:27:05 | 200 |       505.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:27:06 complete
+[GIN] 2020/12/03 - 14:27:06 | 200 |       538.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:28:16 complete
+[GIN] 2020/12/03 - 14:28:16 | 200 |       830.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:28:17 complete
+[GIN] 2020/12/03 - 14:28:17 | 200 |       704.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:28:17 complete
+[GIN] 2020/12/03 - 14:28:17 | 200 |       785.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:34:22 complete
+[GIN] 2020/12/03 - 14:34:22 | 200 |       984.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:34:22 complete
+[GIN] 2020/12/03 - 14:34:22 | 200 |       717.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:34:22 complete
+[GIN] 2020/12/03 - 14:34:22 | 200 |       766.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:34:23 complete
+[GIN] 2020/12/03 - 14:34:23 | 200 |      2.1085ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:34:52 complete
+[GIN] 2020/12/03 - 14:34:52 | 200 |       486.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:00 complete
+[GIN] 2020/12/03 - 14:35:00 | 200 |       804.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:00 complete
+[GIN] 2020/12/03 - 14:35:00 | 200 |       649.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 14:35:01 complete
+[GIN] 2020/12/03 - 14:35:01 | 200 |       489.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 14:35:01 complete
+[GIN] 2020/12/03 - 14:35:01 | 200 |       552.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 14:35:02 complete
+[GIN] 2020/12/03 - 14:35:02 | 200 |       524.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 14:35:02 complete
+[GIN] 2020/12/03 - 14:35:02 | 200 |         705µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:35:03 complete
+[GIN] 2020/12/03 - 14:35:03 | 200 |       470.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:35:03 complete
+[GIN] 2020/12/03 - 14:35:03 | 200 |       449.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 14:35:04 complete
+[GIN] 2020/12/03 - 14:35:04 | 200 |       440.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 14:35:04 complete
+[GIN] 2020/12/03 - 14:35:04 | 200 |       503.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 14:35:05 complete
+[GIN] 2020/12/03 - 14:35:05 | 200 |       447.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 14:35:05 complete
+[GIN] 2020/12/03 - 14:35:05 | 200 |       553.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 14:35:06 complete
+[GIN] 2020/12/03 - 14:35:06 | 200 |       453.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 14:35:06 complete
+[GIN] 2020/12/03 - 14:35:06 | 200 |       433.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2007"
+2020/12/03 14:35:08 complete
+[GIN] 2020/12/03 - 14:35:08 | 200 |       447.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2007"
+2020/12/03 14:35:08 complete
+[GIN] 2020/12/03 - 14:35:08 | 200 |       565.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:24 complete
+[GIN] 2020/12/03 - 14:35:24 | 200 |       550.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:24 complete
+[GIN] 2020/12/03 - 14:35:24 | 200 |       637.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:48 complete
+[GIN] 2020/12/03 - 14:35:48 | 200 |       663.2µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:48 complete
+[GIN] 2020/12/03 - 14:35:48 | 200 |       617.4µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:54 complete
+[GIN] 2020/12/03 - 14:35:54 | 200 |       508.6µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:35:56 complete
+[GIN] 2020/12/03 - 14:35:56 | 200 |         541µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:36:50 complete
+[GIN] 2020/12/03 - 14:36:50 | 200 |       516.5µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:36:52 complete
+[GIN] 2020/12/03 - 14:36:52 | 200 |       685.7µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:36:53 complete
+[GIN] 2020/12/03 - 14:36:53 | 200 |       489.5µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 14:36:54 complete
+[GIN] 2020/12/03 - 14:36:54 | 200 |       706.9µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:36:55 complete
+[GIN] 2020/12/03 - 14:36:55 | 200 |       983.7µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 14:36:56 complete
+[GIN] 2020/12/03 - 14:36:56 | 200 |       830.3µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:39:23 complete
+[GIN] 2020/12/03 - 14:39:23 | 200 |       861.8µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 14:39:36 complete
+[GIN] 2020/12/03 - 14:39:36 | 200 |       419.3µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 14:39:36 complete
+[GIN] 2020/12/03 - 14:39:36 | 200 |       534.8µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1999"
+2020/12/03 14:39:44 complete
+[GIN] 2020/12/03 - 14:39:44 | 200 |       523.5µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1999"
+2020/12/03 14:39:44 complete
+[GIN] 2020/12/03 - 14:39:44 | 200 |       387.6µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2011"
+2020/12/03 14:39:55 complete
+[GIN] 2020/12/03 - 14:39:55 | 200 |       613.9µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:40:03 complete
+[GIN] 2020/12/03 - 14:40:03 | 200 |       642.7µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:40:11 complete
+[GIN] 2020/12/03 - 14:40:11 | 200 |       425.4µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 14:40:16 complete
+[GIN] 2020/12/03 - 14:40:16 | 200 |       592.2µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:40:16 complete
+[GIN] 2020/12/03 - 14:40:16 | 200 |       601.5µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:40:50 complete
+[GIN] 2020/12/03 - 14:40:50 | 200 |      1.0737ms |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:40:55 complete
+[GIN] 2020/12/03 - 14:40:55 | 200 |         663µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:41:38 complete
+[GIN] 2020/12/03 - 14:41:38 | 200 |      1.1962ms |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:41:41 complete
+[GIN] 2020/12/03 - 14:41:41 | 200 |       677.6µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:41:45 complete
+[GIN] 2020/12/03 - 14:41:45 | 200 |       708.6µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:42:15 complete
+[GIN] 2020/12/03 - 14:42:15 | 200 |         510µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:42:15 complete
+[GIN] 2020/12/03 - 14:42:15 | 200 |       528.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:42:44 complete
+[GIN] 2020/12/03 - 14:42:44 | 200 |       565.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:42:48 complete
+[GIN] 2020/12/03 - 14:42:48 | 200 |       753.9µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:42:48 complete
+[GIN] 2020/12/03 - 14:42:48 | 200 |       518.4µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:42:51 complete
+[GIN] 2020/12/03 - 14:42:51 | 200 |       494.8µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:43:41 complete
+[GIN] 2020/12/03 - 14:43:41 | 200 |       604.8µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:43:41 complete
+[GIN] 2020/12/03 - 14:43:41 | 200 |       595.4µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:44:05 complete
+[GIN] 2020/12/03 - 14:44:05 | 200 |       793.5µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:44:15 complete
+[GIN] 2020/12/03 - 14:44:15 | 200 |       614.8µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:44:16 complete
+[GIN] 2020/12/03 - 14:44:16 | 200 |       657.3µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:00 complete
+[GIN] 2020/12/03 - 14:45:00 | 200 |       642.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 14:45:00 complete
+[GIN] 2020/12/03 - 14:45:00 | 200 |       572.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:04 complete
+[GIN] 2020/12/03 - 14:45:04 | 200 |       538.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:45:07 complete
+[GIN] 2020/12/03 - 14:45:07 | 200 |       728.5µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 14:45:11 complete
+[GIN] 2020/12/03 - 14:45:11 | 200 |       503.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:11 complete
+[GIN] 2020/12/03 - 14:45:11 | 200 |       736.9µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:12 complete
+[GIN] 2020/12/03 - 14:45:12 | 200 |       619.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:12 complete
+[GIN] 2020/12/03 - 14:45:12 | 200 |       563.3µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:13 complete
+[GIN] 2020/12/03 - 14:45:13 | 200 |       757.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 14:45:16 complete
+[GIN] 2020/12/03 - 14:45:16 | 200 |       387.5µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 14:45:22 complete
+[GIN] 2020/12/03 - 14:45:22 | 200 |         510µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:22 complete
+[GIN] 2020/12/03 - 14:45:22 | 200 |       717.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 14:45:28 complete
+[GIN] 2020/12/03 - 14:45:28 | 200 |       450.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:45:28 complete
+[GIN] 2020/12/03 - 14:45:28 | 200 |       567.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:45:37 complete
+[GIN] 2020/12/03 - 14:45:37 | 200 |       651.4µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:47:29 complete
+[GIN] 2020/12/03 - 14:47:29 | 200 |       615.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:47:29 complete
+[GIN] 2020/12/03 - 14:47:29 | 200 |       854.1µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:47:32 complete
+[GIN] 2020/12/03 - 14:47:32 | 200 |       683.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:47:34 complete
+[GIN] 2020/12/03 - 14:47:34 | 200 |      1.1651ms |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:47:34 complete
+[GIN] 2020/12/03 - 14:47:34 | 200 |       663.8µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:47:45 complete
+[GIN] 2020/12/03 - 14:47:45 | 200 |         561µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:52:15 complete
+[GIN] 2020/12/03 - 14:52:15 | 200 |       507.8µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:52:15 complete
+[GIN] 2020/12/03 - 14:52:15 | 200 |       552.6µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:52:27 complete
+[GIN] 2020/12/03 - 14:52:27 | 200 |      1.2501ms |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:56:45 complete
+[GIN] 2020/12/03 - 14:56:45 | 200 |      1.1193ms |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:56:45 complete
+[GIN] 2020/12/03 - 14:56:45 | 200 |       521.7µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:56:51 complete
+[GIN] 2020/12/03 - 14:56:51 | 200 |       1.258ms |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:56:53 complete
+[GIN] 2020/12/03 - 14:56:53 | 200 |       543.8µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:57:03 complete
+[GIN] 2020/12/03 - 14:57:03 | 200 |       717.5µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:57:03 complete
+[GIN] 2020/12/03 - 14:57:03 | 200 |       578.9µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 14:58:17 complete
+[GIN] 2020/12/03 - 14:58:17 | 200 |       781.6µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 14:58:34 complete
+[GIN] 2020/12/03 - 14:58:34 | 200 |       511.5µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 14:58:35 complete
+[GIN] 2020/12/03 - 14:58:35 | 200 |       545.2µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 14:58:54 complete
+[GIN] 2020/12/03 - 14:58:54 | 200 |      1.6695ms |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 14:59:00 complete
+[GIN] 2020/12/03 - 14:59:00 | 200 |       656.7µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 14:59:07 complete
+[GIN] 2020/12/03 - 14:59:07 | 200 |       525.4µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 15:01:32 complete
+[GIN] 2020/12/03 - 15:01:32 | 200 |       908.6µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:01:32 complete
+[GIN] 2020/12/03 - 15:01:32 | 200 |       701.4µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:01:32 complete
+[GIN] 2020/12/03 - 15:01:32 | 200 |       835.5µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:02:10 complete
+[GIN] 2020/12/03 - 15:02:10 | 200 |       701.6µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 15:02:21 complete
+[GIN] 2020/12/03 - 15:02:21 | 200 |      1.0223ms |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:02:21 complete
+[GIN] 2020/12/03 - 15:02:21 | 200 |       762.6µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:02:26 complete
+[GIN] 2020/12/03 - 15:02:26 | 200 |         635µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 15:02:26 complete
+[GIN] 2020/12/03 - 15:02:26 | 200 |       855.1µs |  203.205.141.39 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 15:03:38 complete
+[GIN] 2020/12/03 - 15:03:38 | 200 |      1.4117ms |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:03:38 complete
+[GIN] 2020/12/03 - 15:03:38 | 200 |       389.1µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 15:03:41 complete
+[GIN] 2020/12/03 - 15:03:41 | 200 |       579.1µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 15:03:41 complete
+[GIN] 2020/12/03 - 15:03:41 | 200 |       684.5µs |  192.41.114.224 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:04:26 complete
+[GIN] 2020/12/03 - 16:04:26 | 200 |       559.8µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:04:26 complete
+[GIN] 2020/12/03 - 16:04:26 | 200 |       528.5µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:04:27 complete
+[GIN] 2020/12/03 - 16:04:27 | 200 |       575.1µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:05:00 complete
+[GIN] 2020/12/03 - 16:05:00 | 200 |       536.3µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:06:54 complete
+[GIN] 2020/12/03 - 16:06:54 | 200 |       544.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 16:07:00 complete
+[GIN] 2020/12/03 - 16:07:00 | 200 |       621.2µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:07:00 complete
+[GIN] 2020/12/03 - 16:07:00 | 200 |       369.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 16:07:04 complete
+[GIN] 2020/12/03 - 16:07:04 | 200 |       657.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:07:05 complete
+[GIN] 2020/12/03 - 16:07:05 | 200 |         721µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:41:58 complete
+[GIN] 2020/12/03 - 16:41:58 | 200 |       802.1µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 16:41:58 complete
+[GIN] 2020/12/03 - 16:41:58 | 200 |         440µs |  183.197.79.103 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 17:10:31 complete
+[GIN] 2020/12/03 - 17:10:31 | 200 |       918.3µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 17:10:31 complete
+2020/12/03 17:10:31 complete
+[GIN] 2020/12/03 - 17:10:31 | 200 |       478.6µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+[GIN] 2020/12/03 - 17:10:31 | 200 |       521.3µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 17:10:37 complete
+[GIN] 2020/12/03 - 17:10:37 | 200 |       840.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 17:10:38 complete
+[GIN] 2020/12/03 - 17:10:38 | 200 |       710.7µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 17:10:42 complete
+[GIN] 2020/12/03 - 17:10:42 | 200 |       512.1µs | 220.202.224.184 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:16:28 complete
+[GIN] 2020/12/03 - 20:16:28 | 200 |      1.5412ms |  222.244.139.40 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:16:33 complete
+[GIN] 2020/12/03 - 20:16:33 | 200 |       842.3µs |  222.244.139.40 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 20:18:07 complete
+[GIN] 2020/12/03 - 20:18:07 | 200 |      1.5527ms |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:18:07 complete
+[GIN] 2020/12/03 - 20:18:07 | 200 |       553.7µs |  137.116.161.24 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:35:23 complete
+[GIN] 2020/12/03 - 20:35:23 | 200 |       509.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:35:23 complete
+[GIN] 2020/12/03 - 20:35:23 | 200 |      1.1991ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:35:25 complete
+[GIN] 2020/12/03 - 20:35:25 | 200 |       497.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:35:26 complete
+[GIN] 2020/12/03 - 20:35:26 | 200 |       559.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:35:27 complete
+[GIN] 2020/12/03 - 20:35:27 | 200 |       980.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:35:27 complete
+[GIN] 2020/12/03 - 20:35:27 | 200 |       791.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2013"
+2020/12/03 20:35:28 complete
+[GIN] 2020/12/03 - 20:35:28 | 200 |       638.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2013"
+2020/12/03 20:35:28 complete
+[GIN] 2020/12/03 - 20:35:28 | 200 |       457.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:35:30 complete
+[GIN] 2020/12/03 - 20:35:30 | 200 |       508.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:35:55 complete
+[GIN] 2020/12/03 - 20:35:55 | 200 |       636.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:37:51 complete
+[GIN] 2020/12/03 - 20:37:51 | 200 |         433µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 20:37:51 complete
+[GIN] 2020/12/03 - 20:37:51 | 200 |       457.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:38:19 complete
+[GIN] 2020/12/03 - 20:38:19 | 200 |       640.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 20:38:19 complete
+[GIN] 2020/12/03 - 20:38:19 | 200 |       453.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 20:38:20 complete
+[GIN] 2020/12/03 - 20:38:20 | 200 |       546.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 20:38:20 complete
+[GIN] 2020/12/03 - 20:38:20 | 200 |       336.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:38:21 complete
+[GIN] 2020/12/03 - 20:38:21 | 200 |       504.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:38:21 complete
+[GIN] 2020/12/03 - 20:38:21 | 200 |       420.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:38:22 complete
+[GIN] 2020/12/03 - 20:38:22 | 200 |       634.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:38:22 complete
+[GIN] 2020/12/03 - 20:38:22 | 200 |       384.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 20:44:55 complete
+[GIN] 2020/12/03 - 20:44:55 | 200 |      2.6779ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:44:55 complete
+[GIN] 2020/12/03 - 20:44:55 | 200 |       769.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:44:55 complete
+[GIN] 2020/12/03 - 20:44:55 | 200 |       878.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:49:47 complete
+[GIN] 2020/12/03 - 20:49:47 | 200 |       779.4µs | 213.205.242.131 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:49:55 complete
+[GIN] 2020/12/03 - 20:49:55 | 200 |       906.6µs | 213.205.242.131 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 20:49:57 complete
+[GIN] 2020/12/03 - 20:49:57 | 200 |         491µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:49:57 complete
+[GIN] 2020/12/03 - 20:49:57 | 200 |       628.8µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:00 complete
+[GIN] 2020/12/03 - 20:50:00 | 200 |      4.7731ms | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:01 complete
+[GIN] 2020/12/03 - 20:50:01 | 200 |         601µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:03 complete
+[GIN] 2020/12/03 - 20:50:03 | 200 |       522.5µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:50:03 complete
+[GIN] 2020/12/03 - 20:50:03 | 200 |       657.9µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:50:10 complete
+[GIN] 2020/12/03 - 20:50:10 | 200 |       538.7µs | 213.205.242.131 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2010"
+2020/12/03 20:50:12 complete
+[GIN] 2020/12/03 - 20:50:12 | 200 |       488.5µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:12 complete
+[GIN] 2020/12/03 - 20:50:12 | 200 |         572µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:13 complete
+[GIN] 2020/12/03 - 20:50:13 | 200 |       805.3µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:13 complete
+[GIN] 2020/12/03 - 20:50:13 | 200 |       548.2µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:14 complete
+[GIN] 2020/12/03 - 20:50:14 | 200 |       792.9µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:50:16 complete
+[GIN] 2020/12/03 - 20:50:16 | 200 |       706.8µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:17 complete
+[GIN] 2020/12/03 - 20:50:17 | 200 |       514.2µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:50:20 complete
+[GIN] 2020/12/03 - 20:50:20 | 200 |       607.9µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:21 complete
+[GIN] 2020/12/03 - 20:50:21 | 200 |       716.8µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:21 complete
+[GIN] 2020/12/03 - 20:50:21 | 200 |       511.2µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:22 complete
+[GIN] 2020/12/03 - 20:50:22 | 200 |       799.7µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:23 complete
+[GIN] 2020/12/03 - 20:50:23 | 200 |       592.3µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:23 complete
+[GIN] 2020/12/03 - 20:50:23 | 200 |       520.8µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:29 complete
+[GIN] 2020/12/03 - 20:50:29 | 200 |       620.2µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SSD"
+2020/12/03 20:50:29 complete
+[GIN] 2020/12/03 - 20:50:29 | 200 |       483.5µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:50:29 complete
+[GIN] 2020/12/03 - 20:50:29 | 200 |       572.9µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:50:30 complete
+[GIN] 2020/12/03 - 20:50:30 | 200 |       974.6µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:33 complete
+[GIN] 2020/12/03 - 20:50:33 | 200 |       664.4µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:36 complete
+[GIN] 2020/12/03 - 20:50:36 | 200 |       446.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:37 complete
+[GIN] 2020/12/03 - 20:50:37 | 200 |       608.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:38 complete
+[GIN] 2020/12/03 - 20:50:38 | 200 |       610.9µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SYR"
+2020/12/03 20:50:40 complete
+[GIN] 2020/12/03 - 20:50:40 | 200 |         477µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:50:42 complete
+[GIN] 2020/12/03 - 20:50:42 | 200 |       401.5µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SYR"
+2020/12/03 20:50:46 complete
+[GIN] 2020/12/03 - 20:50:46 | 200 |       493.9µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:46 complete
+[GIN] 2020/12/03 - 20:50:46 | 200 |       613.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:46 complete
+[GIN] 2020/12/03 - 20:50:46 | 200 |         356µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:46 complete
+[GIN] 2020/12/03 - 20:50:46 | 200 |       717.1µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:47 complete
+[GIN] 2020/12/03 - 20:50:47 | 200 |       724.8µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:47 complete
+[GIN] 2020/12/03 - 20:50:47 | 200 |       595.6µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:48 complete
+[GIN] 2020/12/03 - 20:50:48 | 200 |       440.4µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:50 complete
+[GIN] 2020/12/03 - 20:50:50 | 200 |         615µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:51 complete
+[GIN] 2020/12/03 - 20:50:51 | 200 |       576.1µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:52 complete
+2020/12/03 20:50:52 complete
+[GIN] 2020/12/03 - 20:50:52 | 200 |       630.9µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+[GIN] 2020/12/03 - 20:50:52 | 200 |       387.1µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:50:52 complete
+[GIN] 2020/12/03 - 20:50:52 | 200 |       360.9µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:52 complete
+[GIN] 2020/12/03 - 20:50:52 | 200 |       572.8µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:54 complete
+[GIN] 2020/12/03 - 20:50:54 | 200 |       753.1µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 20:50:54 complete
+[GIN] 2020/12/03 - 20:50:54 | 200 |       539.3µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:50:55 complete
+[GIN] 2020/12/03 - 20:50:55 | 200 |       674.4µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:55 complete
+[GIN] 2020/12/03 - 20:50:55 | 200 |       668.2µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:50:56 complete
+[GIN] 2020/12/03 - 20:50:56 | 200 |       566.7µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SDN"
+2020/12/03 20:50:59 complete
+[GIN] 2020/12/03 - 20:50:59 | 200 |       427.1µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:50:59 complete
+[GIN] 2020/12/03 - 20:50:59 | 200 |       386.2µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SDN"
+2020/12/03 20:51:00 complete
+[GIN] 2020/12/03 - 20:51:00 | 200 |       491.7µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SDN"
+2020/12/03 20:51:04 complete
+[GIN] 2020/12/03 - 20:51:04 | 200 |       923.4µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:07 complete
+[GIN] 2020/12/03 - 20:51:07 | 200 |       878.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:08 complete
+[GIN] 2020/12/03 - 20:51:08 | 200 |       663.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:09 complete
+[GIN] 2020/12/03 - 20:51:09 | 200 |       666.9µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=CAF"
+2020/12/03 20:51:10 complete
+[GIN] 2020/12/03 - 20:51:10 | 200 |       482.4µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SYR"
+2020/12/03 20:51:11 complete
+[GIN] 2020/12/03 - 20:51:11 | 200 |       484.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 20:51:13 complete
+[GIN] 2020/12/03 - 20:51:13 | 200 |       472.4µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:14 complete
+[GIN] 2020/12/03 - 20:51:14 | 200 |       382.8µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SYR"
+2020/12/03 20:51:14 complete
+[GIN] 2020/12/03 - 20:51:14 | 200 |       474.8µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SYR"
+2020/12/03 20:51:14 complete
+[GIN] 2020/12/03 - 20:51:14 | 200 |         395µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:17 complete
+[GIN] 2020/12/03 - 20:51:17 | 200 |       402.2µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=LBY"
+2020/12/03 20:51:18 complete
+[GIN] 2020/12/03 - 20:51:18 | 200 |       639.3µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=LBY"
+2020/12/03 20:51:24 complete
+[GIN] 2020/12/03 - 20:51:24 | 200 |       664.7µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:26 complete
+[GIN] 2020/12/03 - 20:51:26 | 200 |       422.6µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=LBY"
+2020/12/03 20:51:26 complete
+[GIN] 2020/12/03 - 20:51:26 | 200 |       537.4µs |    188.74.64.15 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015&coi=LBY"
+2020/12/03 20:51:30 complete
+[GIN] 2020/12/03 - 20:51:30 | 200 |      1.3054ms |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:30 complete
+[GIN] 2020/12/03 - 20:51:30 | 200 |       452.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 20:51:30 complete
+[GIN] 2020/12/03 - 20:51:30 | 200 |       672.3µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:31 complete
+[GIN] 2020/12/03 - 20:51:31 | 200 |       655.7µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:31 complete
+[GIN] 2020/12/03 - 20:51:31 | 200 |       533.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 20:51:32 complete
+[GIN] 2020/12/03 - 20:51:32 | 200 |       444.5µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:51:32 complete
+[GIN] 2020/12/03 - 20:51:32 | 200 |       392.4µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:34 complete
+[GIN] 2020/12/03 - 20:51:34 | 200 |       647.1µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:34 complete
+[GIN] 2020/12/03 - 20:51:34 | 200 |       563.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1993"
+2020/12/03 20:51:34 complete
+[GIN] 2020/12/03 - 20:51:34 | 200 |         418µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:35 complete
+[GIN] 2020/12/03 - 20:51:35 | 200 |       565.3µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:35 complete
+[GIN] 2020/12/03 - 20:51:35 | 200 |       485.6µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:35 complete
+[GIN] 2020/12/03 - 20:51:35 | 200 |       349.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:51:35 complete
+[GIN] 2020/12/03 - 20:51:35 | 200 |       855.3µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:36 complete
+[GIN] 2020/12/03 - 20:51:36 | 200 |       661.5µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:37 complete
+[GIN] 2020/12/03 - 20:51:37 | 200 |       446.6µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=LBY"
+2020/12/03 20:51:41 complete
+[GIN] 2020/12/03 - 20:51:41 | 200 |       544.2µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:41 complete
+[GIN] 2020/12/03 - 20:51:41 | 200 |       747.1µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:51:42 complete
+[GIN] 2020/12/03 - 20:51:42 | 200 |       821.5µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=KEN"
+2020/12/03 20:51:43 complete
+[GIN] 2020/12/03 - 20:51:43 | 200 |         634µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:44 complete
+[GIN] 2020/12/03 - 20:51:44 | 200 |       483.4µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:44 complete
+[GIN] 2020/12/03 - 20:51:44 | 200 |       705.5µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:51:46 complete
+[GIN] 2020/12/03 - 20:51:46 | 200 |         527µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:47 complete
+[GIN] 2020/12/03 - 20:51:47 | 200 |       751.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:48 complete
+[GIN] 2020/12/03 - 20:51:48 | 200 |       568.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 20:51:48 complete
+[GIN] 2020/12/03 - 20:51:48 | 200 |       948.9µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 20:51:49 complete
+[GIN] 2020/12/03 - 20:51:49 | 200 |       806.4µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:49 complete
+[GIN] 2020/12/03 - 20:51:49 | 200 |       493.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:51:49 complete
+[GIN] 2020/12/03 - 20:51:49 | 200 |         660µs | 195.147.113.145 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=KEN"
+2020/12/03 20:51:50 complete
+[GIN] 2020/12/03 - 20:51:50 | 200 |       416.7µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:50 complete
+[GIN] 2020/12/03 - 20:51:50 | 200 |       454.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:51:50 complete
+[GIN] 2020/12/03 - 20:51:50 | 200 |       557.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 20:51:52 complete
+[GIN] 2020/12/03 - 20:51:52 | 200 |       575.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SSD"
+2020/12/03 20:51:52 complete
+[GIN] 2020/12/03 - 20:51:52 | 200 |       886.3µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:53 complete
+[GIN] 2020/12/03 - 20:51:53 | 200 |       730.1µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:53 complete
+[GIN] 2020/12/03 - 20:51:53 | 200 |       474.4µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:53 complete
+[GIN] 2020/12/03 - 20:51:53 | 200 |       541.3µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2010"
+2020/12/03 20:51:53 complete
+[GIN] 2020/12/03 - 20:51:53 | 200 |       570.6µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 20:51:54 complete
+[GIN] 2020/12/03 - 20:51:54 | 200 |       464.3µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:54 complete
+[GIN] 2020/12/03 - 20:51:54 | 200 |       622.9µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2008"
+2020/12/03 20:51:54 complete
+[GIN] 2020/12/03 - 20:51:54 | 200 |       594.1µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2010"
+2020/12/03 20:51:54 complete
+[GIN] 2020/12/03 - 20:51:54 | 200 |         550µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 20:51:55 complete
+[GIN] 2020/12/03 - 20:51:55 | 200 |       558.1µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:55 complete
+[GIN] 2020/12/03 - 20:51:55 | 200 |       487.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2008"
+2020/12/03 20:51:55 complete
+[GIN] 2020/12/03 - 20:51:55 | 200 |       843.3µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 20:51:56 complete
+[GIN] 2020/12/03 - 20:51:56 | 200 |      1.6835ms |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:51:56 complete
+[GIN] 2020/12/03 - 20:51:56 | 200 |       450.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 20:51:56 complete
+[GIN] 2020/12/03 - 20:51:56 | 200 |       594.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 20:51:57 complete
+[GIN] 2020/12/03 - 20:51:57 | 200 |       549.7µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:51:57 complete
+[GIN] 2020/12/03 - 20:51:57 | 200 |       356.6µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 20:51:57 complete
+[GIN] 2020/12/03 - 20:51:57 | 200 |       382.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:51:59 complete
+[GIN] 2020/12/03 - 20:51:59 | 200 |       803.9µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:01 complete
+[GIN] 2020/12/03 - 20:52:01 | 200 |      1.2634ms |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:52:01 complete
+[GIN] 2020/12/03 - 20:52:01 | 200 |         537µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:52:02 complete
+[GIN] 2020/12/03 - 20:52:02 | 200 |       541.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:52:02 complete
+[GIN] 2020/12/03 - 20:52:02 | 200 |       478.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:03 complete
+[GIN] 2020/12/03 - 20:52:03 | 200 |       597.7µs |    47.57.11.140 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:03 complete
+[GIN] 2020/12/03 - 20:52:03 | 200 |       540.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:52:03 complete
+[GIN] 2020/12/03 - 20:52:03 | 200 |       453.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 20:52:03 complete
+[GIN] 2020/12/03 - 20:52:03 | 200 |       484.4µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:05 complete
+[GIN] 2020/12/03 - 20:52:05 | 200 |       427.4µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/03 20:52:05 complete
+[GIN] 2020/12/03 - 20:52:05 | 200 |         513µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:52:07 complete
+[GIN] 2020/12/03 - 20:52:07 | 200 |       751.7µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:52:07 complete
+[GIN] 2020/12/03 - 20:52:07 | 200 |       491.6µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:08 complete
+[GIN] 2020/12/03 - 20:52:08 | 200 |       541.6µs |   31.205.93.201 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:52:09 complete
+[GIN] 2020/12/03 - 20:52:09 | 200 |       473.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:09 complete
+[GIN] 2020/12/03 - 20:52:09 | 200 |       638.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:52:11 complete
+[GIN] 2020/12/03 - 20:52:11 | 200 |       482.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 20:52:11 complete
+[GIN] 2020/12/03 - 20:52:11 | 200 |       635.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 20:52:12 complete
+[GIN] 2020/12/03 - 20:52:12 | 200 |       470.6µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2014"
+2020/12/03 20:52:12 complete
+[GIN] 2020/12/03 - 20:52:12 | 200 |       511.7µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 20:52:14 complete
+[GIN] 2020/12/03 - 20:52:14 | 200 |       442.1µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:14 complete
+[GIN] 2020/12/03 - 20:52:14 | 200 |       507.5µs |    47.57.11.140 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 20:52:16 complete
+[GIN] 2020/12/03 - 20:52:16 | 200 |       563.1µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:19 complete
+[GIN] 2020/12/03 - 20:52:19 | 200 |       551.5µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:19 complete
+[GIN] 2020/12/03 - 20:52:19 | 200 |       477.4µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 20:52:21 complete
+[GIN] 2020/12/03 - 20:52:21 | 200 |      1.5426ms |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:21 complete
+[GIN] 2020/12/03 - 20:52:21 | 200 |       410.2µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 20:52:22 complete
+[GIN] 2020/12/03 - 20:52:22 | 200 |       650.9µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:23 complete
+[GIN] 2020/12/03 - 20:52:23 | 200 |       573.3µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=KEN"
+2020/12/03 20:52:26 complete
+[GIN] 2020/12/03 - 20:52:26 | 200 |       559.4µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:26 complete
+[GIN] 2020/12/03 - 20:52:26 | 200 |       547.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:52:27 complete
+[GIN] 2020/12/03 - 20:52:27 | 200 |       423.8µs |    5.151.145.98 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992&coi=BIH"
+2020/12/03 20:52:27 complete
+[GIN] 2020/12/03 - 20:52:27 | 200 |       728.3µs |    5.151.22.123 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:52:29 complete
+[GIN] 2020/12/03 - 20:52:29 | 200 |         617µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:29 complete
+[GIN] 2020/12/03 - 20:52:29 | 200 |      1.1766ms | 213.205.242.131 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 20:52:35 complete
+[GIN] 2020/12/03 - 20:52:35 | 200 |       590.6µs |    47.57.11.140 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992&coa=BIH"
+2020/12/03 20:52:35 complete
+[GIN] 2020/12/03 - 20:52:35 | 200 |       691.9µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:36 complete
+[GIN] 2020/12/03 - 20:52:36 | 200 |       924.9µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:36 complete
+[GIN] 2020/12/03 - 20:52:36 | 200 |       345.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:52:40 complete
+[GIN] 2020/12/03 - 20:52:40 | 200 |       455.4µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:52:40 complete
+[GIN] 2020/12/03 - 20:52:40 | 200 |         373µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:52:40 complete
+[GIN] 2020/12/03 - 20:52:40 | 200 |       526.9µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:52:41 complete
+[GIN] 2020/12/03 - 20:52:41 | 200 |       482.3µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:52:46 complete
+[GIN] 2020/12/03 - 20:52:46 | 200 |       851.9µs |    154.17.13.22 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:51 complete
+[GIN] 2020/12/03 - 20:52:51 | 200 |       490.4µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:52:56 complete
+[GIN] 2020/12/03 - 20:52:56 | 200 |       612.5µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:52:56 complete
+[GIN] 2020/12/03 - 20:52:56 | 200 |       699.2µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:52:58 complete
+[GIN] 2020/12/03 - 20:52:58 | 200 |       808.4µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:00 complete
+[GIN] 2020/12/03 - 20:53:00 | 200 |         339µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:53:10 complete
+[GIN] 2020/12/03 - 20:53:10 | 200 |       493.7µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:10 complete
+[GIN] 2020/12/03 - 20:53:10 | 200 |       750.4µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 20:53:12 complete
+[GIN] 2020/12/03 - 20:53:12 | 200 |       688.6µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SSD"
+2020/12/03 20:53:15 complete
+[GIN] 2020/12/03 - 20:53:15 | 200 |         420µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=NGA"
+2020/12/03 20:53:19 complete
+[GIN] 2020/12/03 - 20:53:19 | 200 |       453.9µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:19 complete
+[GIN] 2020/12/03 - 20:53:19 | 200 |       430.3µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:20 complete
+[GIN] 2020/12/03 - 20:53:20 | 200 |         595µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=NGA"
+2020/12/03 20:53:21 complete
+[GIN] 2020/12/03 - 20:53:21 | 200 |       698.6µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:21 complete
+[GIN] 2020/12/03 - 20:53:21 | 200 |         514µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:53:22 complete
+[GIN] 2020/12/03 - 20:53:22 | 200 |       475.7µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 20:53:22 complete
+[GIN] 2020/12/03 - 20:53:22 | 200 |      1.0355ms |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:28 complete
+[GIN] 2020/12/03 - 20:53:28 | 200 |       669.5µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:29 complete
+[GIN] 2020/12/03 - 20:53:29 | 200 |       610.7µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:30 complete
+[GIN] 2020/12/03 - 20:53:30 | 200 |       632.1µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 20:53:31 complete
+[GIN] 2020/12/03 - 20:53:31 | 200 |       573.1µs |      3.34.44.10 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:34 complete
+[GIN] 2020/12/03 - 20:53:34 | 200 |       831.8µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:47 complete
+[GIN] 2020/12/03 - 20:53:47 | 200 |       656.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:47 complete
+[GIN] 2020/12/03 - 20:53:47 | 200 |       829.3µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:53:57 complete
+[GIN] 2020/12/03 - 20:53:57 | 200 |      1.4419ms |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:58 complete
+[GIN] 2020/12/03 - 20:53:58 | 200 |       579.2µs |     46.69.0.246 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:53:59 complete
+[GIN] 2020/12/03 - 20:53:59 | 200 |       535.9µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:54:00 complete
+[GIN] 2020/12/03 - 20:54:00 | 200 |       724.4µs |   188.74.64.249 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:07 complete
+[GIN] 2020/12/03 - 20:54:07 | 200 |       668.4µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:07 complete
+[GIN] 2020/12/03 - 20:54:07 | 200 |       649.6µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:38 complete
+[GIN] 2020/12/03 - 20:54:38 | 200 |       527.2µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:46 complete
+[GIN] 2020/12/03 - 20:54:46 | 200 |       624.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:49 complete
+[GIN] 2020/12/03 - 20:54:49 | 200 |       625.6µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 20:54:53 complete
+[GIN] 2020/12/03 - 20:54:53 | 200 |       583.3µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:54:58 complete
+[GIN] 2020/12/03 - 20:54:58 | 200 |       652.8µs |   119.4.252.143 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:55:04 complete
+[GIN] 2020/12/03 - 20:55:04 | 200 |         567µs |   119.4.252.143 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 20:57:04 complete
+[GIN] 2020/12/03 - 20:57:04 | 200 |       486.2µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:57:07 complete
+[GIN] 2020/12/03 - 20:57:07 | 200 |       562.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 20:57:19 complete
+[GIN] 2020/12/03 - 20:57:19 | 200 |       580.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SSD"
+2020/12/03 20:57:20 complete
+[GIN] 2020/12/03 - 20:57:20 | 200 |         609µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 20:57:25 complete
+[GIN] 2020/12/03 - 20:57:25 | 200 |       357.2µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2010"
+2020/12/03 20:57:36 complete
+[GIN] 2020/12/03 - 20:57:36 | 200 |       516.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coi=SSD"
+2020/12/03 20:57:57 complete
+[GIN] 2020/12/03 - 20:57:57 | 200 |       675.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 20:57:57 complete
+[GIN] 2020/12/03 - 20:57:57 | 200 |      1.9592ms |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 20:58:10 complete
+[GIN] 2020/12/03 - 20:58:10 | 200 |         615µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 20:58:13 complete
+[GIN] 2020/12/03 - 20:58:13 | 200 |       746.1µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 20:58:17 complete
+[GIN] 2020/12/03 - 20:58:17 | 200 |       447.7µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 21:00:06 complete
+[GIN] 2020/12/03 - 21:00:06 | 200 |       638.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:06 complete
+[GIN] 2020/12/03 - 21:00:06 | 200 |       519.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:06 complete
+[GIN] 2020/12/03 - 21:00:06 | 200 |       691.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:16 complete
+[GIN] 2020/12/03 - 21:00:16 | 200 |       683.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:17 complete
+[GIN] 2020/12/03 - 21:00:17 | 200 |       673.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:27 complete
+[GIN] 2020/12/03 - 21:00:27 | 200 |       673.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:00:52 complete
+[GIN] 2020/12/03 - 21:00:52 | 200 |       541.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:00:52 complete
+[GIN] 2020/12/03 - 21:00:52 | 200 |       541.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:01:06 complete
+[GIN] 2020/12/03 - 21:01:06 | 200 |      1.3833ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/03 21:01:31 complete
+[GIN] 2020/12/03 - 21:01:31 | 200 |         829µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:38 complete
+[GIN] 2020/12/03 - 21:01:38 | 200 |       662.8µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:01:44 complete
+[GIN] 2020/12/03 - 21:01:44 | 200 |        1.04ms |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:44 complete
+[GIN] 2020/12/03 - 21:01:44 | 200 |       791.4µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:45 complete
+[GIN] 2020/12/03 - 21:01:45 | 200 |       600.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:45 complete
+[GIN] 2020/12/03 - 21:01:45 | 200 |       943.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:45 complete
+[GIN] 2020/12/03 - 21:01:45 | 200 |       519.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:48 complete
+[GIN] 2020/12/03 - 21:01:48 | 200 |         526µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:01:51 complete
+[GIN] 2020/12/03 - 21:01:51 | 200 |       622.4µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:01:58 complete
+[GIN] 2020/12/03 - 21:01:58 | 200 |       640.1µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:03 complete
+[GIN] 2020/12/03 - 21:02:03 | 200 |       607.1µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:02:11 complete
+[GIN] 2020/12/03 - 21:02:11 | 200 |       717.2µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:25 complete
+[GIN] 2020/12/03 - 21:02:25 | 200 |       573.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:25 complete
+[GIN] 2020/12/03 - 21:02:25 | 200 |       644.1µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:25 complete
+[GIN] 2020/12/03 - 21:02:25 | 200 |         587µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:38 complete
+[GIN] 2020/12/03 - 21:02:38 | 200 |       723.8µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:40 complete
+[GIN] 2020/12/03 - 21:02:40 | 200 |       470.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 21:02:41 complete
+[GIN] 2020/12/03 - 21:02:41 | 200 |       764.6µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:47 complete
+[GIN] 2020/12/03 - 21:02:47 | 200 |       840.1µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:48 complete
+[GIN] 2020/12/03 - 21:02:48 | 200 |       562.6µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=NGA"
+2020/12/03 21:02:50 complete
+[GIN] 2020/12/03 - 21:02:50 | 200 |       560.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:50 complete
+[GIN] 2020/12/03 - 21:02:50 | 200 |       609.4µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:02:54 complete
+[GIN] 2020/12/03 - 21:02:54 | 200 |       688.1µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SSD"
+2020/12/03 21:02:55 complete
+[GIN] 2020/12/03 - 21:02:55 | 200 |       557.8µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:04 complete
+[GIN] 2020/12/03 - 21:03:04 | 200 |       548.3µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:07 complete
+[GIN] 2020/12/03 - 21:03:07 | 200 |       756.2µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:08 complete
+[GIN] 2020/12/03 - 21:03:08 | 200 |       873.4µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SSD"
+2020/12/03 21:03:11 complete
+[GIN] 2020/12/03 - 21:03:11 | 200 |       796.5µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:11 complete
+[GIN] 2020/12/03 - 21:03:11 | 200 |         610µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:19 complete
+[GIN] 2020/12/03 - 21:03:19 | 200 |       698.2µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:22 complete
+[GIN] 2020/12/03 - 21:03:22 | 200 |      1.1566ms |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:23 complete
+[GIN] 2020/12/03 - 21:03:23 | 200 |       567.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:54 complete
+[GIN] 2020/12/03 - 21:03:54 | 200 |         716µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:54 complete
+[GIN] 2020/12/03 - 21:03:54 | 200 |         661µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:54 complete
+[GIN] 2020/12/03 - 21:03:54 | 200 |      1.2175ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:03:59 complete
+[GIN] 2020/12/03 - 21:03:59 | 200 |       473.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 21:04:00 complete
+[GIN] 2020/12/03 - 21:04:00 | 200 |       897.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:01 complete
+[GIN] 2020/12/03 - 21:04:01 | 200 |       595.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 21:04:01 complete
+[GIN] 2020/12/03 - 21:04:01 | 200 |       783.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:01 complete
+[GIN] 2020/12/03 - 21:04:01 | 200 |       824.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:02 complete
+[GIN] 2020/12/03 - 21:04:02 | 200 |         495µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 21:04:03 complete
+[GIN] 2020/12/03 - 21:04:03 | 200 |       541.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:05 complete
+[GIN] 2020/12/03 - 21:04:05 | 200 |       623.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:05 complete
+[GIN] 2020/12/03 - 21:04:05 | 200 |       531.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 21:04:06 complete
+2020/12/03 21:04:06 complete
+[GIN] 2020/12/03 - 21:04:06 | 200 |       457.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+[GIN] 2020/12/03 - 21:04:06 | 200 |       524.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 21:04:07 complete
+[GIN] 2020/12/03 - 21:04:07 | 200 |       576.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 21:04:07 complete
+[GIN] 2020/12/03 - 21:04:07 | 200 |       257.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 21:04:08 complete
+[GIN] 2020/12/03 - 21:04:08 | 200 |       474.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/03 21:04:08 complete
+[GIN] 2020/12/03 - 21:04:08 | 200 |       389.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 21:04:10 complete
+[GIN] 2020/12/03 - 21:04:10 | 200 |       541.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2009"
+2020/12/03 21:04:10 complete
+[GIN] 2020/12/03 - 21:04:10 | 200 |       451.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 21:04:20 complete
+[GIN] 2020/12/03 - 21:04:20 | 200 |       657.8µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:30 complete
+[GIN] 2020/12/03 - 21:04:30 | 200 |         514µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:04:32 complete
+[GIN] 2020/12/03 - 21:04:32 | 200 |       821.5µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:34 complete
+[GIN] 2020/12/03 - 21:04:34 | 200 |       449.5µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/03 21:04:36 complete
+[GIN] 2020/12/03 - 21:04:36 | 200 |       433.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:36 complete
+[GIN] 2020/12/03 - 21:04:36 | 200 |       648.5µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:04:41 complete
+[GIN] 2020/12/03 - 21:04:41 | 200 |      1.2401ms |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:05:39 complete
+[GIN] 2020/12/03 - 21:05:39 | 200 |       694.8µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:05:47 complete
+[GIN] 2020/12/03 - 21:05:47 | 200 |       597.5µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:05:54 complete
+[GIN] 2020/12/03 - 21:05:54 | 200 |       801.9µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:05:54 complete
+[GIN] 2020/12/03 - 21:05:54 | 200 |       664.7µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:06:16 complete
+[GIN] 2020/12/03 - 21:06:16 | 200 |       430.9µs |   81.110.21.240 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/03 21:09:14 complete
+[GIN] 2020/12/03 - 21:09:14 | 200 |       704.2µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:09:14 complete
+[GIN] 2020/12/03 - 21:09:14 | 200 |       489.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SYR"
+2020/12/03 21:09:15 complete
+[GIN] 2020/12/03 - 21:09:15 | 200 |       419.2µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SYR"
+2020/12/03 21:09:15 complete
+[GIN] 2020/12/03 - 21:09:15 | 200 |       384.8µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017&coa=SYR"
+2020/12/03 21:09:15 complete
+[GIN] 2020/12/03 - 21:09:15 | 200 |       432.9µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 21:09:16 complete
+[GIN] 2020/12/03 - 21:09:16 | 200 |       1.535ms |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015&coa=SYR"
+2020/12/03 21:09:16 complete
+[GIN] 2020/12/03 - 21:09:16 | 200 |       376.9µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016&coa=SYR"
+2020/12/03 21:09:17 complete
+[GIN] 2020/12/03 - 21:09:17 | 200 |       413.9µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018&coa=SYR"
+2020/12/03 21:09:17 complete
+[GIN] 2020/12/03 - 21:09:17 | 200 |       372.5µs |    188.74.64.78 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015&coa=SYR"
+2020/12/03 21:09:27 complete
+[GIN] 2020/12/03 - 21:09:27 | 200 |       429.2µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1997"
+2020/12/03 21:09:31 complete
+[GIN] 2020/12/03 - 21:09:31 | 200 |         562µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1997"
+2020/12/03 21:09:36 complete
+[GIN] 2020/12/03 - 21:09:36 | 200 |       492.1µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000"
+2020/12/03 21:09:41 complete
+[GIN] 2020/12/03 - 21:09:41 | 200 |       450.4µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000&coi=SSD"
+2020/12/03 21:09:50 complete
+[GIN] 2020/12/03 - 21:09:50 | 200 |       489.8µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015&coi=SSD"
+2020/12/03 21:09:53 complete
+[GIN] 2020/12/03 - 21:09:53 | 200 |         493µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015&coi=COD"
+2020/12/03 21:09:55 complete
+[GIN] 2020/12/03 - 21:09:55 | 200 |       557.8µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 21:09:59 complete
+[GIN] 2020/12/03 - 21:09:59 | 200 |       501.6µs |  192.41.114.230 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2015"
+2020/12/03 21:17:10 complete
+[GIN] 2020/12/03 - 21:17:10 | 200 |         647µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:17:10 complete
+[GIN] 2020/12/03 - 21:17:10 | 200 |         829µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:17:21 complete
+[GIN] 2020/12/03 - 21:17:21 | 200 |       618.8µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:17:22 complete
+[GIN] 2020/12/03 - 21:17:22 | 200 |       529.5µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:17:24 complete
+[GIN] 2020/12/03 - 21:17:24 | 200 |       695.2µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 21:17:26 complete
+[GIN] 2020/12/03 - 21:17:26 | 200 |       616.4µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 21:17:28 complete
+[GIN] 2020/12/03 - 21:17:28 | 200 |       564.5µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 21:17:34 complete
+[GIN] 2020/12/03 - 21:17:34 | 200 |         488µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 21:17:34 complete
+[GIN] 2020/12/03 - 21:17:34 | 200 |       467.2µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000"
+2020/12/03 21:17:36 complete
+[GIN] 2020/12/03 - 21:17:36 | 200 |       850.1µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000"
+2020/12/03 21:17:40 complete
+[GIN] 2020/12/03 - 21:17:40 | 200 |       386.6µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000"
+2020/12/03 21:17:40 complete
+[GIN] 2020/12/03 - 21:17:40 | 200 |         375µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1998"
+2020/12/03 21:17:46 complete
+[GIN] 2020/12/03 - 21:17:46 | 200 |       700.2µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1998"
+2020/12/03 21:17:49 complete
+[GIN] 2020/12/03 - 21:17:49 | 200 |       610.7µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1998&coa=HRV"
+2020/12/03 21:17:49 complete
+[GIN] 2020/12/03 - 21:17:49 | 200 |       631.5µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1998&coi=HRV"
+2020/12/03 21:17:53 complete
+[GIN] 2020/12/03 - 21:17:53 | 200 |       648.6µs |   220.169.186.1 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1998&coa=HRV"
+2020/12/03 22:04:39 complete
+[GIN] 2020/12/03 - 22:04:39 | 200 |      1.0141ms |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 22:04:42 complete
+[GIN] 2020/12/03 - 22:04:42 | 200 |       837.4µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SYR"
+2020/12/03 22:04:43 complete
+[GIN] 2020/12/03 - 22:04:43 | 200 |       369.3µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=LBY"
+2020/12/03 22:04:45 complete
+[GIN] 2020/12/03 - 22:04:45 | 200 |       790.9µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 22:04:46 complete
+[GIN] 2020/12/03 - 22:04:46 | 200 |       669.8µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/03 22:04:48 complete
+[GIN] 2020/12/03 - 22:04:48 | 200 |       710.6µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/03 23:01:24 complete
+[GIN] 2020/12/03 - 23:01:24 | 200 |      1.2392ms |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:01:24 complete
+[GIN] 2020/12/03 - 23:01:24 | 200 |       725.7µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:01:30 complete
+[GIN] 2020/12/03 - 23:01:30 | 200 |       437.8µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/03 23:01:30 complete
+[GIN] 2020/12/03 - 23:01:30 | 200 |       508.7µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 23:01:31 complete
+[GIN] 2020/12/03 - 23:01:31 | 200 |       532.8µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/03 23:01:31 complete
+[GIN] 2020/12/03 - 23:01:31 | 200 |       788.4µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2008"
+2020/12/03 23:01:35 complete
+[GIN] 2020/12/03 - 23:01:35 | 200 |       550.7µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2008&coa=NPL"
+2020/12/03 23:01:36 complete
+[GIN] 2020/12/03 - 23:01:36 | 200 |       450.1µs |   111.14.133.12 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2008"
+2020/12/03 23:19:24 complete
+[GIN] 2020/12/03 - 23:19:24 | 200 |         806µs |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:19:25 complete
+[GIN] 2020/12/03 - 23:19:25 | 200 |       528.9µs |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:19:25 complete
+[GIN] 2020/12/03 - 23:19:25 | 200 |       511.6µs |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:19:35 complete
+[GIN] 2020/12/03 - 23:19:35 | 200 |       602.1µs |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/03 23:19:36 complete
+[GIN] 2020/12/03 - 23:19:36 | 200 |       481.2µs |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/03 23:19:57 complete
+[GIN] 2020/12/03 - 23:19:57 | 200 |      1.6616ms |    59.149.170.9 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/04 00:39:17 complete
+[GIN] 2020/12/04 - 00:39:17 | 200 |         763µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 00:39:18 complete
+[GIN] 2020/12/04 - 00:39:18 | 200 |       665.2µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 00:39:18 complete
+[GIN] 2020/12/04 - 00:39:18 | 200 |       819.6µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 00:39:29 complete
+[GIN] 2020/12/04 - 00:39:29 | 200 |       422.9µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/04 00:39:49 complete
+[GIN] 2020/12/04 - 00:39:49 | 200 |       923.7µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/04 00:39:53 complete
+[GIN] 2020/12/04 - 00:39:53 | 200 |       877.8µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 00:39:53 complete
+[GIN] 2020/12/04 - 00:39:53 | 200 |       876.8µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 00:40:08 complete
+[GIN] 2020/12/04 - 00:40:08 | 200 |       540.9µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 00:40:33 complete
+[GIN] 2020/12/04 - 00:40:33 | 200 |       972.2µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coi=SYR"
+2020/12/04 01:23:18 complete
+[GIN] 2020/12/04 - 01:23:18 | 200 |       631.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/04 01:23:18 complete
+[GIN] 2020/12/04 - 01:23:18 | 200 |       695.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 01:23:19 complete
+[GIN] 2020/12/04 - 01:23:19 | 200 |      3.1971ms |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 01:23:19 complete
+[GIN] 2020/12/04 - 01:23:19 | 200 |       673.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 01:23:19 complete
+[GIN] 2020/12/04 - 01:23:19 | 200 |       553.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 01:39:30 complete
+[GIN] 2020/12/04 - 01:39:30 | 200 |         608µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=LBY"
+2020/12/04 01:39:30 complete
+[GIN] 2020/12/04 - 01:39:30 | 200 |       653.3µs |   188.74.64.213 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/04 02:30:32 complete
+[GIN] 2020/12/04 - 02:30:32 | 200 |      1.6045ms |   188.74.64.210 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 02:30:32 complete
+[GIN] 2020/12/04 - 02:30:32 | 200 |         502µs |   188.74.64.210 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019"
+2020/12/04 02:30:34 complete
+[GIN] 2020/12/04 - 02:30:34 | 200 |       457.4µs |   188.74.64.210 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=NGA"
+2020/12/04 02:30:36 complete
+[GIN] 2020/12/04 - 02:30:36 | 200 |       511.3µs |   188.74.64.210 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/04 03:37:54 complete
+[GIN] 2020/12/04 - 03:37:54 | 200 |      1.0883ms |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 03:37:54 complete
+[GIN] 2020/12/04 - 03:37:54 | 200 |       957.9µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 03:38:20 complete
+[GIN] 2020/12/04 - 03:38:20 | 200 |       627.7µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 05:11:28 complete
+2020/12/04 05:11:28 complete
+[GIN] 2020/12/04 - 05:11:28 | 200 |       566.8µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+[GIN] 2020/12/04 - 05:11:28 | 200 |      1.0962ms |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 05:48:37 complete
+[GIN] 2020/12/04 - 05:48:37 | 200 |       837.9µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 05:48:37 complete
+[GIN] 2020/12/04 - 05:48:37 | 200 |       772.2µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 06:23:58 complete
+2020/12/04 06:23:58 complete
+[GIN] 2020/12/04 - 06:23:58 | 200 |       535.7µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+[GIN] 2020/12/04 - 06:23:58 | 200 |       658.1µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 06:24:09 complete
+[GIN] 2020/12/04 - 06:24:09 | 200 |      1.4643ms |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 06:24:09 complete
+[GIN] 2020/12/04 - 06:24:09 | 200 |       532.2µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 06:25:18 complete
+[GIN] 2020/12/04 - 06:25:18 | 200 |      1.1105ms |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 06:25:18 complete
+[GIN] 2020/12/04 - 06:25:18 | 200 |       489.9µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 06:34:01 complete
+[GIN] 2020/12/04 - 06:34:01 | 200 |       853.7µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 06:34:02 complete
+[GIN] 2020/12/04 - 06:34:02 | 200 |       650.5µs |  192.41.114.225 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/04 18:27:00 complete
+[GIN] 2020/12/04 - 18:27:00 | 200 |       777.7µs |     5.151.46.65 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 18:27:00 complete
+[GIN] 2020/12/04 - 18:27:00 | 200 |       663.4µs |     5.151.46.65 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/04 18:27:03 complete
+[GIN] 2020/12/04 - 18:27:03 | 200 |       486.3µs |     5.151.46.65 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 16:40:26 complete
+[GIN] 2020/12/05 - 16:40:26 | 200 |      1.7944ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:40:26 complete
+[GIN] 2020/12/05 - 16:40:26 | 200 |       575.2µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:40:26 complete
+[GIN] 2020/12/05 - 16:40:26 | 200 |       490.8µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:40:32 complete
+[GIN] 2020/12/05 - 16:40:32 | 200 |       554.5µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/05 16:40:44 complete
+[GIN] 2020/12/05 - 16:40:44 | 200 |       609.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 16:40:49 complete
+[GIN] 2020/12/05 - 16:40:49 | 200 |       893.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 16:40:49 complete
+[GIN] 2020/12/05 - 16:40:49 | 200 |       803.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2019&coa=SSD"
+2020/12/05 16:40:56 complete
+[GIN] 2020/12/05 - 16:40:56 | 200 |         481µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 16:40:59 complete
+[GIN] 2020/12/05 - 16:40:59 | 200 |       535.7µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000&coa=SSD"
+2020/12/05 16:41:01 complete
+[GIN] 2020/12/05 - 16:41:01 | 200 |       564.2µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2000&coa=SSD"
+2020/12/05 16:41:01 complete
+[GIN] 2020/12/05 - 16:41:01 | 200 |       335.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 16:41:02 complete
+[GIN] 2020/12/05 - 16:41:02 | 200 |       863.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:41:02 complete
+[GIN] 2020/12/05 - 16:41:02 | 200 |       452.3µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:41:26 complete
+[GIN] 2020/12/05 - 16:41:26 | 200 |       690.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:41:26 complete
+[GIN] 2020/12/05 - 16:41:26 | 200 |       566.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:41:26 complete
+[GIN] 2020/12/05 - 16:41:26 | 200 |       497.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 16:41:27 complete
+[GIN] 2020/12/05 - 16:41:27 | 200 |         450µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/05 18:24:17 complete
+[GIN] 2020/12/05 - 18:24:17 | 200 |      1.2967ms |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 18:24:17 complete
+[GIN] 2020/12/05 - 18:24:17 | 200 |       658.1µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SYR"
+2020/12/05 18:24:21 complete
+[GIN] 2020/12/05 - 18:24:21 | 200 |       773.9µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 18:24:21 complete
+[GIN] 2020/12/05 - 18:24:21 | 200 |       519.4µs |     112.8.60.23 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:10:08 complete
+[GIN] 2020/12/05 - 20:10:08 | 200 |      3.5786ms |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:10:08 complete
+[GIN] 2020/12/05 - 20:10:08 | 200 |       548.2µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:10:09 complete
+[GIN] 2020/12/05 - 20:10:09 | 200 |         587µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:10:23 complete
+[GIN] 2020/12/05 - 20:10:23 | 200 |       602.6µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1994"
+2020/12/05 20:10:23 complete
+[GIN] 2020/12/05 - 20:10:23 | 200 |       394.4µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1994"
+2020/12/05 20:10:26 complete
+[GIN] 2020/12/05 - 20:10:26 | 200 |       534.6µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1994"
+2020/12/05 20:10:27 complete
+[GIN] 2020/12/05 - 20:10:27 | 200 |       424.7µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/05 20:10:28 complete
+[GIN] 2020/12/05 - 20:10:28 | 200 |         511µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2016"
+2020/12/05 20:10:28 complete
+[GIN] 2020/12/05 - 20:10:28 | 200 |       448.4µs |   222.186.10.69 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2018"
+2020/12/05 20:11:43 complete
+[GIN] 2020/12/05 - 20:11:43 | 200 |       558.8µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:11:43 complete
+[GIN] 2020/12/05 - 20:11:43 | 200 |       692.4µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 20:12:00 complete
+[GIN] 2020/12/05 - 20:12:00 | 200 |         530µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 21:52:53 complete
+[GIN] 2020/12/05 - 21:52:53 | 200 |       616.9µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 21:52:55 complete
+[GIN] 2020/12/05 - 21:52:55 | 200 |       884.4µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020&coa=SSD"
+2020/12/05 21:52:56 complete
+[GIN] 2020/12/05 - 21:52:56 | 200 |       555.8µs | 211.138.116.234 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 22:15:30 complete
+[GIN] 2020/12/05 - 22:15:30 | 200 |       626.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 22:15:31 complete
+[GIN] 2020/12/05 - 22:15:31 | 200 |       885.5µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 22:31:16 complete
+[GIN] 2020/12/05 - 22:31:16 | 200 |       732.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2020"
+2020/12/05 22:31:16 complete
+[GIN] 2020/12/05 - 22:31:16 | 200 |       507.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/05 22:31:18 complete
+[GIN] 2020/12/05 - 22:31:18 | 200 |       413.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/05 22:31:20 complete
+[GIN] 2020/12/05 - 22:31:20 | 200 |       709.9µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2017"
+2020/12/05 22:31:20 complete
+[GIN] 2020/12/05 - 22:31:20 | 200 |       354.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2004"
+2020/12/05 22:31:24 complete
+[GIN] 2020/12/05 - 22:31:24 | 200 |       833.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=2004"
+2020/12/05 22:31:24 complete
+[GIN] 2020/12/05 - 22:31:24 | 200 |       428.4µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1997"
+2020/12/05 22:31:31 complete
+[GIN] 2020/12/05 - 22:31:31 | 200 |       367.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1997"
+2020/12/05 22:31:31 complete
+[GIN] 2020/12/05 - 22:31:31 | 200 |       250.6µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:32:04 complete
+[GIN] 2020/12/05 - 22:32:04 | 200 |       679.1µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:32:04 complete
+[GIN] 2020/12/05 - 22:32:04 | 200 |       614.8µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:40:14 complete
+[GIN] 2020/12/05 - 22:40:14 | 200 |       501.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:40:14 complete
+[GIN] 2020/12/05 - 22:40:14 | 200 |       411.3µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:40:26 complete
+[GIN] 2020/12/05 - 22:40:26 | 200 |       350.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 22:40:27 complete
+[GIN] 2020/12/05 - 22:40:27 | 200 |       568.2µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"
+2020/12/05 23:23:12 complete
+[GIN] 2020/12/05 - 23:23:12 | 200 |       545.7µs |  219.76.152.130 | GET      "/cgi-bin/texis/vtx/home/rssfull.xml?year=1992"

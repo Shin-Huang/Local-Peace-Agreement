@@ -1,0 +1,1832 @@
+[
+  {
+    "refugees": 1,
+    "year": 1991,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 1996,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 1998,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 2001,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 2003,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 1991,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 1992,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1992,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1992,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1992,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1993,
+    "origin": "HRV",
+    "asylum": "HRV"
+  },
+  {
+    "refugees": 1,
+    "year": 1993,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 1993,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 1993,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1993,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1994,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1995,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1997,
+    "origin": "BIH",
+    "asylum": "BIH"
+  },
+  {
+    "refugees": 1,
+    "year": 1997,
+    "origin": "ETH",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 1997,
+    "origin": "SOM",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 1999,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 1999,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 1999,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2000,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2002,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2002,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2004,
+    "origin": "BDI",
+    "asylum": "BDI"
+  },
+  {
+    "refugees": 1,
+    "year": 2005,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2006,
+    "origin": "BDI",
+    "asylum": "BDI"
+  },
+  {
+    "refugees": 1,
+    "year": 2006,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2006,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "ETH",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "SOM",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "PAK",
+    "asylum": "PAK"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "ETH",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "SOM",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "ETH",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "SOM",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2007,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "LBN",
+    "asylum": "LBN"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2008,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "ETH",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "KEN",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "ETH",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "KEN",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "ETH",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "KEN",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2009,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2010,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2010,
+    "origin": "NPL",
+    "asylum": "NPL"
+  },
+  {
+    "refugees": 1,
+    "year": 2010,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2011,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2011,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2011,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2011,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "ETH",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "KEN",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2012,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2013,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "LBN",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "LBN"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2014,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SOM",
+    "asylum": "SOM"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "COD",
+    "asylum": "COD"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2015,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "MLI",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "MLI",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2016,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "ETH",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "KEN",
+    "asylum": "ETH"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "PHL",
+    "asylum": "PHL"
+  },
+  {
+    "refugees": 1,
+    "year": 2017,
+    "origin": "PHL",
+    "asylum": "PHL"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "MLI",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "NGA",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "MLI",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "NGA",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2018,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "LBY",
+    "asylum": "LBY"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SYR",
+    "asylum": "SYR"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "CAF",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "KEN",
+    "asylum": "KEN"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "YEM",
+    "asylum": "YEM"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "CAF",
+    "asylum": "SDN"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "SDN",
+    "asylum": "CAF"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "NGA",
+    "asylum": "NGA"
+  },
+  {
+    "refugees": 1,
+    "year": 2019,
+    "origin": "MLI",
+    "asylum": "MLI"
+  },
+  {
+    "refugees": 1,
+    "year": 2020,
+    "origin": "SSD",
+    "asylum": "SSD"
+  },
+  {
+    "refugees": 1,
+    "year": 2020,
+    "origin": "NGA",
+    "asylum": "NGA"
+  }
+]

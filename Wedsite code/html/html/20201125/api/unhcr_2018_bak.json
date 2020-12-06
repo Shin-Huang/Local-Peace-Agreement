@@ -1,0 +1,38 @@
+[
+  {
+    "refugees": 1,
+    "asylum": "NO",
+    "origin": "PRT",
+    "year": 1991.0
+  },
+  {
+    "refugees": 1,
+    "asylum": "CHN",
+    "origin": "AFG",
+    "year": 1991.0
+  },
+  {
+    "refugees": 1,
+    "asylum": "NO",
+    "origin": "AFG",
+    "year": 1992.0
+  },
+  {
+    "refugees": 1,
+    "asylum": "CHN",
+    "origin": "PRT",
+    "year": 2001.0
+  },
+  {
+    "refugees": 1,
+    "asylum": "NO",
+    "origin": "CHN",
+    "year": 2002.0
+  },
+  {
+    "refugees": 1,
+    "asylum": "PRT",
+    "origin": "AFG",
+    "year": 2003.0
+  }
+]

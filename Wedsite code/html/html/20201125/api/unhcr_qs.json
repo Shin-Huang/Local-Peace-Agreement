@@ -1,0 +1,62 @@
+[
+  {
+    "refugees": 22.0,
+    "asylum": "ZMB",
+    "origin": "ERI",
+    "year": 2018.0
+  },
+  {
+    "refugees": 27.0,
+    "asylum": "ZMB",
+    "origin": "ETH",
+    "year": 2017.0
+  },
+  {
+    "refugees": 7.0,
+    "asylum": "ZMB",
+    "origin": "LBR",
+    "year": 2016.0
+  },
+  {
+    "refugees": 12.0,
+    "asylum": "ZMB",
+    "origin": "PSE",
+    "year": 2015.0
+  },
+  {
+    "refugees": 755.0,
+    "asylum": "ZMB",
+    "origin": "RWA",
+    "year": 2014.0
+  },
+  {
+    "refugees": 26.0,
+    "asylum": "ZMB",
+    "origin": "SDN",
+    "year": 2013.0
+  },
+  {
+    "refugees": 2891.0,
+    "asylum": "ZMB",
+    "origin": "SOM",
+    "year": 2012.0
+  },
+  {
+    "refugees": 8.0,
+    "asylum": "ZMB",
+    "origin": "SYR",
+    "year": 2011.0
+  },
+  {
+    "refugees": 39.0,
+    "asylum": "ZMB",
+    "origin": "TUR",
+    "year": 2018.0
+  },
+  {
+    "refugees": 28.0,
+    "asylum": "ZMB",
+    "origin": "UGA",
+    "year": 2010.0
+  }
+]
