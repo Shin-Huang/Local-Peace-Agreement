@@ -1,4 +1,4 @@
-# Local-Peace-Agreement
+# Local Peace Agreement
 
 Local Peace Agreement is a learning experience and we‘d like to let people know more about the role of local peace agreements playing in the peace progress.
 
